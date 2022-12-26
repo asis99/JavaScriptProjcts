@@ -1,0 +1,33 @@
+body{
+    padding:0%;
+    margin: 0%;
+    background-image: url("back (2).jpg");
+}
+
+#stopwatch{
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 13%;
+}
+
+#stopwatch h1{
+    padding: 0% 1% 0% 1%;
+    font-size:70px;
+}
+.button{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1%;
+}
+
+.button button{
+    margin: 0% 4% 0% 4%;
+    padding: 0.8% 4% 0.8% 4%;
+    font-size:35px;
+    font-style: normal;
+    border-width: 0px;
+    border-radius: 40px;
+}
